@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-18T12:19:09Z" name="ampractice" finished-at="2024-02-18T12:19:16Z" duration-ms="6883">
+    <groups>
+    </groups>
+    <test started-at="2024-02-18T12:19:09Z" name="practicetest" finished-at="2024-02-18T12:19:16Z" duration-ms="6883">
+      <class name="com.org.amazon.testCases.searchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.org.amazon.testCases.searchTest@43c1b556]" started-at="2024-02-18T17:49:09Z" name="setUp" finished-at="2024-02-18T17:49:10Z" duration-ms="1581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="oneTimeSetup()[pri:0, instance:com.org.amazon.testCases.searchTest@43c1b556]" started-at="2024-02-18T17:49:10Z" name="oneTimeSetup" finished-at="2024-02-18T17:49:10Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTimeSetup -->
+        <test-method is-config="true" signature="btm()[pri:0, instance:com.org.amazon.testCases.searchTest@43c1b556]" started-at="2024-02-18T17:49:10Z" name="btm" finished-at="2024-02-18T17:49:12Z" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btm -->
+        <test-method signature="testVerifySearchFuntionality()[pri:0, instance:com.org.amazon.testCases.searchTest@43c1b556]" started-at="2024-02-18T17:49:12Z" name="testVerifySearchFuntionality" finished-at="2024-02-18T17:49:15Z" duration-ms="2826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifySearchFuntionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.org.amazon.testCases.searchTest@43c1b556]" started-at="2024-02-18T17:49:15Z" name="tearDown" finished-at="2024-02-18T17:49:16Z" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.org.amazon.testCases.searchTest -->
+    </test> <!-- practicetest -->
+  </suite> <!-- ampractice -->
+</testng-results>
